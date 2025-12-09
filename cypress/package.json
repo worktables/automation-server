@@ -28,7 +28,7 @@
     "cypress-real-events": "^1.13.0",
     "flatted": "catalog:",
     "lodash": "catalog:",
-    "nanoid": "catalog:",
+    "nanoid": "3.3.8",
     "start-server-and-test": "^2.0.8"
   }
 }
